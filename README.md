@@ -1,2 +1,3 @@
-# homework-2
-portfolio with bootstrap
+# Basic-Portfolio
+
+this is the first project for denver coding bootcamp
